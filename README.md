@@ -2,6 +2,10 @@
 
 Interactive web-based simulation of the SIR epidemiological model, developed to visualize disease spread dynamics in a population.
 
+## Live Demo
+
+https://jushep.github.io/epidemic-sir-simulator/
+
 ## Features
 
 - Interactive epidemic simulation
@@ -29,7 +33,7 @@ styles.css     # Styling
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/epidemic-sir-simulator.git
+git clone https://github.com/JUSHEP/epidemic-sir-simulator.git
 ```
 
 Open the project:
